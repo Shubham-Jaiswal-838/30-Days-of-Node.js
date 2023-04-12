@@ -1,0 +1,25 @@
+Introduction
+
+Node.js is developed using Google chrome's v8 engine,v8 engine (which is the same engine used by Google Chrome to run JavaScript code)
+It's open source, cross platform, it's capable of generating real time web applications
+It uses event driven architecture and non-blocking I/O model which make it efficient 
+It is written in c, c++, JavaScript
+and it's developed by Ryan Dahl in 2009 
+
+
+createReadStream() is a method in Node.js used to create a readable stream from a file or other data source, allowing for efficient reading of data in small chunks.
+
+pipe() is a method in Node.js used to connect the output of one stream to the input of another stream, allowing for easy and efficient handling of streaming data.
+
+exists() is deprecated that's why use access
+
+
+Summary
+In this part of the node.js series 30 days of node we learned about node.js server . Also a basic introduction to node.js and how we can install node.js. Then an hello world example in node.js. Then we learned how to create a simple http server in node.js and serve the following :
+
+Serve a String using node.js server
+Serve html file using node.js server
+Serve JSON using node.js server
+Serve pdf file using node.js server
+Serve mp3 file using node.js server
+Serve video/mp4 file using node.js server
